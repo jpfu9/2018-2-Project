@@ -1,4 +1,6 @@
 \documentclass[a4paper,11pt]{report}
+
+% FRONTPAGE 
 \title{Combination of Dynamic MFA and LCA for Zero Emission Neighbourhoods}
 \author{Johana Paola Forero Urrego}
 \date{21 December 2018}
@@ -10,15 +12,15 @@
 \titlespacing*{\chapter} {0pt}{20pt}{40pt}
 
 %Package for bibliography
-\usepackage{natbib}
+%\usepackage{natbib}
 %\usepackage[numbers]{natbib}
-\bibliographystyle{plainnat}
+%
 
+% CONTENT:
 \begin{document}
 \maketitle
 
 \tableofcontents
-\chapter{Introduction}
 
 \include{introduction} % in new page, if wanted in same page input command instead
 
@@ -32,6 +34,9 @@
 
 \chapter{Results and Discussion}
 \include{results}
+
+\bibliography{References}
+\bibliographystyle{apalike} %natbib
 
 \end{document}
 
