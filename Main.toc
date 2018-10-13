@@ -1,0 +1,12 @@
+\contentsline {chapter}{\numberline {1}Introduction}{4}
+\contentsline {section}{\numberline {1.1}Background}{4}
+\contentsline {section}{\numberline {1.2}Problem Definition}{7}
+\contentsline {section}{\numberline {1.3}LiteratureReview}{7}
+\contentsline {subsection}{\numberline {1.3.1}Zero Emission Neighbourhoods, ZEN, Definition, Goals and Ambitions}{7}
+\contentsline {subsection}{\numberline {1.3.2}Zero Emission Buildings and Zero Emission Neighbourhoods and Embodied Emissions}{7}
+\contentsline {subsection}{\numberline {1.3.3}Materials in buildings}{9}
+\contentsline {subsection}{\numberline {1.3.4}Circular Economy}{9}
+\contentsline {section}{\numberline {1.4}LCA in Buildings}{9}
+\contentsline {chapter}{\numberline {2}Methodology}{12}
+\contentsline {chapter}{\numberline {3}Results and Discussion}{13}
+\contentsline {chapter}{\numberline {4}Notes}{14}

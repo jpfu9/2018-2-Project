@@ -14,26 +14,30 @@
 %Package for bibliography
 %\usepackage{natbib}
 %\usepackage[numbers]{natbib}
-%
+
+%Visible comments
+\usepackage[dvipsnames]{xcolor}
+\newcommand{\note}[1]{\textcolor{Red}{\textit{#1}}} %comment showed
+
 
 % CONTENT:
 \begin{document}
 \maketitle
 
+\include{preface}
+
+\include{abstract}
+
 \tableofcontents
 
 \include{introduction} % in new page, if wanted in same page input command instead
 
-\chapter{Literature Review}
-\include{literatureReview}
-
-\chapter{Methodology}
 \include{methodology}
 
 %\subsection{Title of the subsection}
-
-\chapter{Results and Discussion}
 \include{results}
+
+\include{notes} % for me 
 
 \bibliography{References}
 \bibliographystyle{apalike} %natbib

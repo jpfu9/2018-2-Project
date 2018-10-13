@@ -1,0 +1,87 @@
+\chapter{Notes} % 10 pages around 
+
+
+\section{cooments Johana :P}
+
+* Mixed Neighbourhoods. 
+* Interesting if energy infrastructure can be include. 
+
+* How this is different from an LCA assessment? 	
+		* It gives the detail in time, yes. 
+		* LCA, cant analyse things evolving in time and chnages/improvements in technology, nor flows every year. 
+		*  
+
+
+---------
+Notes: 
+
+0. Abbreviations
+	Neighbourhood = N
+	Building stock = BS, Energy = E, GHG emissions = GHGe
+1. Neighbourhood buildings stock model for long-term dynamic analyses of energy demand and ghg emissions. ZEN REPORT No. 2 - 2018
+
+2. Detailed points:
+
+Abstract:
+	- How a sustainable N should be designed, and what information is required to plan and design it?
+	- Dynamic BS model to analyse E and GHGs. 
+	- Can be used to model any N where BS data is available.
+		- uses description of current stock, plans for construction, demolition and renovation activities.
+		- BS divided in archetypes (cohort, ren state and floor area class)
+	- Hourly energy demand is estimated - requires e intensity profiles given for archetypes of buildings and empirical data. 
+	- Different energy carriers and purposes can be define and estimate in different time resolutions, this to estimate energy demand and emissions.
+	- 
+Introduction:
+
+Methodology:
+
+	The N. building stock model:
+		Model fundamentals:
+		Simulation of system activities:
+
+	Energy modeling of a neighbourhood:
+		Model fundamentals:
+		Coincidental analysis:
+
+	Modelling of GHG emissions
+
+	Case description: Hypothethical case
+	Case description: Gløs campus
+	Carbon intensities input:
+
+Results:
+
+	Hypothetical case:
+		Stock model
+		Energy model
+		GHG emissions
+
+	Gløs campus:
+		Stock model
+		Energy model
+		GHG emissions	
+
+Discussion:
+	Main findings:
+		Buildings stock analyses
+		Energy analyses
+		GHG emission analysis
+	Uncertainties
+	Strengths and limitations
+	Future work
+Conclusions
+
+Others
+
+
+
+
+
+
+3. Own headers and key ideas from 2:
+
+
+
+
+
+4. Summary:
